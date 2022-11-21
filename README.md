@@ -1,7 +1,7 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.shutterstock.com/image-illustration/web-development-coding-concept-banner-260nw-1955634814.jpg))](telekiit.blogspot.com)
 <h1 align="center">Hi 👋, I'm Minhajul Abedin Shakib</h1>
 <h3 align="center">A passionate frontend freelencer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format)">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media1.giphy.com/media/9LQHvkbIzTSLe/giphy.gif](https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhk112&label=Profile%20views&color=0e75b6&style=flat" alt="nhk112" /> </p>
 
